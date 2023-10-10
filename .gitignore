@@ -1,4 +1,2 @@
 # Ignore the virtual environment
 .venv/
-# Ignore the dataset
-data
